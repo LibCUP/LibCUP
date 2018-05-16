@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+This web page present the replication package used to mine the Library patterns and a short video illustrating a user-friendly tool to visualize and navigate through the identified patterns
 
-You can use the [editor on GitHub](https://github.com/saiedmoh/LibCUP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Authors
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mohamed Aymen Saied - Université de Montréal (saiedmoh@iro.umontreal.ca)
 
-### Markdown
+Ali Ouni - Osaka University (ali@ist.osaka-u.ac.jp)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Houari Sahraoui - Université de Montréal  (sahraouh@iro.umontreal.ca)
 
-```markdown
-Syntax highlighted code block
+Raula Gaikovina Kula - Osaka University (raula-k@ist.osaka-u.ac.jp)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saiedmoh/LibCUP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Katsuro Inoue - Osaka University (inoue@ist.osaka-u.ac.jp)
+ David Lo - Singapore Management University (davidlo@smu.edu.sg)
