@@ -1,6 +1,6 @@
 This web page present the replication package used to mine the Library patterns and a short video illustrating a user-friendly tool to visualize and navigate through the identified patterns
 
-
+![Libcup Visualisation](https://github.com/saiedmoh/LibCUP/blob/master/LibCupVisualisation.png)
 
 Authors
 
