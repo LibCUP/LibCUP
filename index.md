@@ -1,7 +1,14 @@
 This web page present the replication package used to mine the Library patterns and a short video illustrating a user-friendly tool to visualize and navigate through the identified patterns
 
+Click the image for the tool demo
 
 [![Libcup Visualisation](LibCupVisualisation.png)](http://www.youtube.com/watch?v=aDRRDKLecGY)
+
+
+
+[Dataset](http://www-etud.iro.umontreal.ca/~saiedmoh/LibraryUsagePatterns/LibCUP/ProjectPage/githubsnapshot.csv)
+
+
 
 
 Authors
