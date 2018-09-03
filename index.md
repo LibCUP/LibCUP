@@ -5,7 +5,7 @@ This web page present the replication package used to mine the Library patterns 
 
 Click the image for the tool demo
 
-[![Libcup Visualisation](LibCupVisualisation.png)](http://www.youtube.com/watch?v=aDRRDKLecGY)
+[![Libcup Visualisation](LibCupVisualisation.png)](https://youtu.be/G6EkTonqDeQ)
 
 
 
